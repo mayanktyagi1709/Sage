@@ -10,8 +10,8 @@ import RightSidebar from "@/components/shared/RightSidebar";
 import Topbar from "@/components/shared/Topbar";
 
 export const metadata: Metadata = {
-  title: "Sage",
-  description: "A Next.js 13 Meta Sage application",
+  title: "Whispr",
+  description: "A Next.js 13 Meta Whispr application",
 };
 
 export default function RootLayout({
